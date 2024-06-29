@@ -10,8 +10,9 @@ Let's check out the my codes :3
 <br/>
 
 
-# Most Languages
+# Me
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takeeatez&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Takeeatez&show_icons=true&theme=radical)
 <br/>
 <br/>
 <br/>
