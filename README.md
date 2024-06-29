@@ -10,7 +10,9 @@ Let's check out the my codes :3
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+# Most Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takeeatez&layout=compact)
 <br/>
 <br/>
 <br/>
