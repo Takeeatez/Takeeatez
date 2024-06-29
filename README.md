@@ -10,6 +10,10 @@ Let's check out the my codes :3
 <br/>
 <br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<br/>
+<br/>
+<br/>
 
 ## Skills
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
