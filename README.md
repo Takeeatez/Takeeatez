@@ -13,7 +13,6 @@ Let's check out the my codes :3
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Social+Account;Please+follow+and+check)](https://git.io/typing-svg)
 <br/>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=takeitez)](https://velog.io/@takeitez/posts) 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=takeitez&color=dark)](https://velog.io/@takeitez/posts)
 <br/>
 <br/>
 <br/>
