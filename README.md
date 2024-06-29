@@ -14,7 +14,10 @@ Let's check out the my codes :3
 <br/>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=takeitez)](https://velog.io/@takeitez/posts) 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=takeitez&color=dark)](https://velog.io/@takeitez/posts)
-  
+<br/>
+<br/>
+<br/>
+
 # Me
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Takeeatez&layout=compact)
 <br/><br/>
