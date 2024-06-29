@@ -1,8 +1,7 @@
-# None
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=10:a18cd1,100:fbc2eb&height=300&section=header&text=None's%20Code&fontSize=90&stroke=a18cd1&strokeWidth=3)
 
 
-## Intro 
+# Intro 
 Hello, I'm None.
 My name is Yizy Choi. I'm Korean and a university student.
 Let's check out the my codes :3
