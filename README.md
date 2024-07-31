@@ -4,7 +4,8 @@
 # Intro 
 Hello, I'm None.
 My name is Yizy Choi. I'm Korean and a university student.
-Let's check out the my codes :3
+Let's check out the my codes :3 <br><br>
+개발자를 꿈꾸는 21살 최이지라고 합니다. 직관적이고 접근성이 높은 코드를 구축하는 것을 좋아합니다.
 <br/>
 <br/>
 <br/>
