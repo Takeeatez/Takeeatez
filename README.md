@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=10:a18cd1,100:fbc2eb&height=300&section=header&text=None's%20Code&fontSize=90&stroke=a18cd1&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=10:a18cd1,100:fbc2eb&height=500&section=header&text=None's%20Code&fontSize=90&stroke=a18cd1&strokeWidth=1)
 
 
 <br/>
