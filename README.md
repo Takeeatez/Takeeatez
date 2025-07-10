@@ -8,9 +8,10 @@
 <br />
 <br />
 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=takeitez)](https://velog.io/@takeitez/posts) 
-<a href="https://www.instagram.com/none.dev_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 <br/>
 <br/>
 <br/>
